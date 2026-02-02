@@ -1,0 +1,2 @@
+# BullmartX
+Trading strategy
